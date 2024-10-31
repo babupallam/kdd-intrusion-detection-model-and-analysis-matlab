@@ -1,0 +1,2 @@
+# KDD-Intrusion-Detection-MATLAB
+ This repository contains a MATLAB-based implementation for an Intrusion Detection System (IDS) using neural networks, focused on detecting network intrusions with the KDD Cup '99 dataset. The project applies hyperparameter tuning and various optimization techniques to build an efficient classification model capable of distinguishing between normal and malicious network activity along with several experiments.
