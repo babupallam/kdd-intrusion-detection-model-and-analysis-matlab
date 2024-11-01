@@ -1,7 +1,4 @@
-Accuracy on Test Data: 99.89%
-Precision: 99.95%
-Recall: 99.91%
-F1 Score: 99.93%
-Precision: 99.95%
-Recall: 99.91%
-F1 Score: 99.93%
+Accuracy on Test Data: 99.94%
+Precision: 99.97%
+Recall: 99.95%
+F1 Score: 99.96%

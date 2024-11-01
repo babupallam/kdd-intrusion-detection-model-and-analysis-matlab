@@ -1,1 +1,4 @@
-Accuracy on Test Data: 95.06%
+Accuracy on Test Data: 75.94%
+Precision: NaN%
+Recall: NaN%
+F1 Score: NaN%
